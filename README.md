@@ -1,4 +1,4 @@
-# LEDs_using_finger_count
+# Hang-gesture-using-home-automation
 
 This Experiment is used to integrate python program with arduino using serial communication.
 
@@ -17,7 +17,7 @@ About main.py:
 ![py](https://user-images.githubusercontent.com/101927825/173759396-3acc4995-b5dc-4b1f-94b7-b10b96be5f73.png)
 
 
-About LEDs_using_finger_count.ino:
+About Hang-gesture-using-home-automation:
 1. Open arduino IDE and copy paste the program.
 2. select the correct board and COM port and then upload the program.
 
@@ -35,7 +35,7 @@ circuit diagram:
 
 
 
-1. First of all Upload the LEDs_using_finger_count.ino program on to the arduino
+1. First of all Upload the Hang-gesture-using-home-automation program on to the arduino
 2. Next in python IDE, Run the main.py program
 3. Then check for the output
 
