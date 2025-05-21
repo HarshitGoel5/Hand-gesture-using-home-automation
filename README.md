@@ -5,8 +5,11 @@ Packages required : opencv, pyserial, cvzone, mediapipe
 Steps for doing this Experiment: About main.py:
 
 Open any Python IDE, and use my main.py program.
+
 Install serial package using the following command in terminal "pip install pyserial".
+
 Install openCv package using the following command in terminal "pip install opencv-python".
+
 Install cvzone package using the following command in terminal "pip install cvzone".
 Install mediapipe package using the following command in terminal "pip install meidapipe".
 In line number 5, we have port='COM_'. for getting the serial port number, goto device manager of your system > ports > check your arduino port number.
