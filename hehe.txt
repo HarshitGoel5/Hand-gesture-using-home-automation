@@ -1,0 +1,5 @@
+pip install mediapipe
+
+reference.py is the og code
+
+you were not reading the img properly from cap.read()
